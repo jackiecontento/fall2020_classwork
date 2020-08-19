@@ -1,0 +1,3 @@
+pencils = 5
+notebooks = 6
+pens = 4
